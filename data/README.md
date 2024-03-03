@@ -8,6 +8,6 @@ Each CSV file should contain test execution records with the following columns:
 
 Example:
 TestID,TestName,ExecutionTime
-1,LoginTest,0.5
-2,SignupTest,0.7
+- 1,LoginTest,0.5
+- 2,SignupTest,0.7
 
